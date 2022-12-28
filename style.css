@@ -1,0 +1,44 @@
+h1{
+    color: red;
+ }
+ h2{
+     color: red;
+     font-style: italic;
+     font-weight: bold;
+ }
+ .Aa{
+     color: rgb(231, 87, 111);
+     line-height: 50px;
+     
+ }
+ .aA{
+     text-decoration: line-through;
+     font-weight: bold;
+ }
+ .bB{
+     background-color: yellow;
+     font-weight: bold;
+ }
+ .cC{
+     text-decoration: underline;
+     font-style: italic;
+ }
+ .Bb{
+     color: rgb(151, 9, 9);
+    letter-spacing: 5px;
+ }
+ .dD{
+     background-color: yellow;
+     font-weight: bold;
+ }
+ .Cc{
+     color: chocolate;
+ 
+ }
+ a{
+     color: brown;
+     background-color: yellow;
+     font-weight: bold;
+     font-style: italic;
+     text-decoration: none;
+ }
